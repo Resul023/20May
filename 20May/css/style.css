@@ -3,6 +3,9 @@ img {
   height: 200px;
 }
 
+input{
+  display: none;
+}
 .main {
   display: -webkit-box;
   display: -ms-flexbox;
